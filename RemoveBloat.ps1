@@ -19,8 +19,8 @@ $pkgNames = @(
     'Microsoft.ZuneMusic',
     'Microsoft.ZuneVideo',
     'Microsoft.WindowsMaps',
-    'Microsoft.MicrosoftEdge_',
-    'Microsoft.MicrosoftEdge.Stable',
+    'Microsoft.MicrosoftEdge', # Doesn't work
+    'Microsoft.MicrosoftEdge.Stable', # Doesn't work
     'Microsoft.MixedReality',
     'Microsoft.Office.OneNote',
     'Microsoft.MSPaint',
@@ -29,6 +29,10 @@ $pkgNames = @(
     'Microsoft.Getstarted',
     'Microsoft.WindowsSoundRecorder',
     'Microsoft.BingWeather',
+    'Microsoft.MicrosoftSolitaireCollection',
+    'Microsoft.SkypeApp',
+    'Microsoft.WindowsFeedbackHub',
+    'Microsoft.YourPhone',
     'Microsoft.549981C3F5F10' # CORTANA
 )
 
